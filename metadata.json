@@ -1,0 +1,6 @@
+{
+  "name": "سماء سابواي - Skyway Surfers",
+  "description": "لعبة طائرة ثلاثية الأبعاد لا نهائية بأسلوب سابواي على طريق سماوي مع عقبات، عملات ذهبية، وقدرات خاصة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
